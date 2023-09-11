@@ -1,0 +1,262 @@
+{
+  "nome": "Jovens 1",
+  "numAulas": 40,
+  "alunos": [
+    {
+      "nome": "John Michael",
+      "celular": "(71) 99256-1174",
+      "email": "johnmichael@gmail.com",
+      "presenca": 13,
+      "biblia": 13,
+      "items": 4,
+      "visitantes": 0
+    },
+    {
+      "nome": "Alexa Liras",
+      "celular": "(71) 99134-9556",
+      "email": "alexaliras@gmail.com",
+      "presenca": 25,
+      "biblia": 13,
+      "items": 9,
+      "visitantes": 0
+    },
+    {
+      "nome": "Laurent Perrier",
+      "celular": "(71) 99967-3425",
+      "email": "laurentperrier@gmail.com",
+      "presenca": 40,
+      "biblia": 35,
+      "items": 25,
+      "visitantes": 2
+    },
+    {
+      "nome": "Michael Levi",
+      "celular": "(71) 99631-9979",
+      "email": "michaellevi@gmail.com",
+      "presenca": 35,
+      "biblia": 35,
+      "items": 10,
+      "visitantes": 0
+    },
+    {
+      "nome": "Richard Gran",
+      "celular": "(71) 99332-8867",
+      "email": "richardgran@gmail.com",
+      "presenca": 13,
+      "biblia": 13,
+      "items": 2,
+      "visitantes": 0
+    }
+  ],
+  "aulas": [
+    {
+      "id": "1",
+      "numero": 13,
+      "data": "05/08/2023",
+      "professor": "Othon Santana",
+      "licao": {
+        "numero": 14,
+        "titulo": "Conhecereis a verdade e a verdade vos libertará"
+      },
+      "chamada": [
+        {
+          "nome": "John Michael",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 1,
+          "oferta": 10.0
+        },
+        {
+          "nome": "Alexa Liras",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 1,
+          "oferta": 100.0
+        },
+        {
+          "nome": "Laurent Perrier",
+          "presente": true,
+          "biblia": false,
+          "visitantes": [],
+          "items": 1,
+          "oferta": 5.0
+        },
+        {
+          "nome": "Michael Levi",
+          "presente": false,
+          "biblia": false,
+          "visitantes": [],
+          "items": 0,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Richard Gran",
+          "presente": true,
+          "biblia": false,
+          "visitantes": [],
+          "items": 1,
+          "oferta": 0.0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "numero": 14,
+      "data": "12/08/2023",
+      "professor": "Othon Santana",
+      "licao": {
+        "numero": 14,
+        "titulo": "Conhecereis a verdade e a verdade vos libertará"
+      },
+      "chamada": [
+        {
+          "nome": "John Michael",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Alexa Liras",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Laurent Perrier",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Michael Levi",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Richard Gran",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "numero": 15,
+      "data": "19/08/2023",
+      "professor": "Othon Santana",
+      "licao": {
+        "numero": 15,
+        "titulo": "Quem vem roubar, matar e destruir"
+      },
+      "chamada": [
+        {
+          "nome": "John Michael",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Alexa Liras",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Laurent Perrier",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Michael Levi",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Richard Gran",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "numero": 16,
+      "data": "26/08/2023",
+      "professor": "Othon Santana",
+      "licao": {
+        "numero": 16,
+        "titulo": "Ame os seus inimigos"
+      },
+
+      "chamada": [
+        {
+          "nome": "John Michael",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Alexa Liras",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Laurent Perrier",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Michael Levi",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        },
+        {
+          "nome": "Richard Gran",
+          "presente": true,
+          "biblia": true,
+          "visitantes": [],
+          "items": 8,
+          "oferta": 0.0
+        }
+      ]
+    }
+  ]
+}
